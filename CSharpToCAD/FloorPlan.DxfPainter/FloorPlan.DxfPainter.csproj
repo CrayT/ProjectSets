@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>YW.SDK.FloorPlan.DxfPainter</RootNamespace>
+    <AssemblyName>YW.SDK.FloorPlan.DxfPainter</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="netDxf.netstandard" Version="2.4.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\YW.Data\SpaceData\SpaceData.Extension\SpaceData.Extension.csproj" />
+    <ProjectReference Include="..\..\..\YW.Data\SpaceData\SpaceData.Model\SpaceData.Model.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Painters\Rulers\" />
+  </ItemGroup>
+
+</Project>
