@@ -1,0 +1,17 @@
+.search-wrapper{
+    position: absolute;
+    right: 10px;
+    top: 10px;
+}
+.search-button{
+    user-select: none;
+    background-color: #4CAF50;
+    width:60px;
+    border-radius: 5px;
+    color: white;
+    height: 28px;
+    line-height: 28px;
+}
+.search-button:active{
+    background-color: green;
+}

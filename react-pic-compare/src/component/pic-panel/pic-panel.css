@@ -1,0 +1,29 @@
+.pic_box{
+    display: flex;
+    top:145px;
+    width: 100%;
+    max-height: calc(100% - 200px);
+    position: absolute;
+}
+.pic_size{
+    max-height: 100%;
+}
+.left_part{
+    width:50%;
+}
+.left_part>img, .right_part>img{
+    max-width:calc(100% - 40px)
+}
+.right_part{
+    width:50%;
+}
+.bottom_section{
+    position: absolute;
+    bottom: 40px;
+    left:50%;
+    transform: translateX(-50%);
+}
+.word_color{
+    color: #fe0200;
+    font-weight: bold;
+}

@@ -1,0 +1,52 @@
+.header_button{
+    position: absolute;
+    width:100%;
+    top:30px;
+    left:50%;
+    transform: translateX(-50%);
+}
+.header_button>button{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.green{
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    padding: 3px 5px;
+    user-select: none;
+}
+.blue{
+    background-color: #008CBA;
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    padding: 3px 5px;
+    user-select: none;
+}
+.id_title{
+    display: flex;
+}
+.id_section{
+    position: absolute;
+    left: 30px;
+    top: 70px;
+    z-index: 1;
+}
+.id_select{
+    position: absolute;
+    left: 2px;
+}
+.id_s1{
+    text-align: left;
+}
+.id_path{
+    color:red
+}
