@@ -20,8 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="11a43f5d-ef58-4614-8c84-5ce4307a1c0a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/floorplan" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/floorplan" beforeDir="false" afterPath="$PROJECT_DIR$/floorplan" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +52,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1634108278912</updated>
-      <workItem from="1634108280003" duration="618000" />
+      <workItem from="1634108280003" duration="933000" />
     </task>
     <servers />
   </component>
